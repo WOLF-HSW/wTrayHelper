@@ -19,7 +19,7 @@ Das Programm organisiert Deine Programme und Dateien unter Windows mit einem Kli
 Programmlokalisation in der rechten Taskleiste.
 (Darstellungen mit Musterdaten)
 
-![](screenshots/Bild1.jpg)
+![](./screenshots/Bild1.jpg)
 
 Menüauswahl:
 
