@@ -31,7 +31,7 @@ Menüauswahl:
 
 ![](screenshots/Bild2.jpg)
 
-Detailansicht: Haputmenü
+Detailansicht: Hauptmenü
 
 ![](screenshots/Bild3.jpg)
 
