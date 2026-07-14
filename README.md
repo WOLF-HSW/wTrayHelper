@@ -62,4 +62,4 @@ https://shop.wolf-hsw.de
 
 ## Lizenz
 
-Copyright © 2026 U.Wolf WOLF Hard- und Software. Alle Rechte vorbehalten.
+Copyright © 07/2026 U.Wolf WOLF Hard- und Software. Alle Rechte vorbehalten.
