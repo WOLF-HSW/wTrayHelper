@@ -1,6 +1,6 @@
 # wTrayHelper
 
-Das Programm organisiert Deine Programme und Dateien unter Windows mit einem Klick auf die Taskleiste. Die Sortierung und die Katalogisierung legst Du selber fest. So behältst Du den Überblick! Es erfolgt kein Autausch der Systemprogramme oder Startmenü, sondern in der Taskleiste wird ein neues Symbol angelegt.
+Das Programm organisiert Deine Programme und Dateien unter Windows mit einem Klick auf die Taskleiste. Die Sortierung und die Katalogisierung legst Du selber fest. So behältst Du den Überblick! Es erfolgt kein Austausch der Systemprogramme oder des Startmenüs, sondern in der Taskleiste wird ein neues Symbol angelegt.
 
 Unterscheidungsmerkmal zu den üblichen Ersatzprogrammen zur Programmverwaltung:
 Hier kann man nach Kategorien sortieren! Ich suche ein Programm um eine Zeichnung zu erstellen. Also suche ich mir im Programmmenü "Grafikprogramme" das passende aus.
