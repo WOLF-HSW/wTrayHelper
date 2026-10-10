@@ -76,12 +76,11 @@ Es ist keine Registrierung nötig. Einfach Testlizenz im Menü eintragen!
 
 Vollversion: Nach Bestellung und Geldeingang erhalten Sie innerhalb 48h eine Programmlizenz per E-Mail.
 
-Für die volle Funktionsfähigkeit der Software unter allen denkbaren Betriebs-
-zuständen eines Rechnersystems kann verständlicherweise keine Garantie
-übernommen werden.
+Für die volle Funktionsfähigkeit der Software unter allen denkbaren Betriebszuständen
+eines Rechnersystems kann verständlicherweise keine Garantie übernommen werden.
 Eine Haftung für die Eignung dieses Programms für einen bestimmten
-Verwendungszweck, für das fehlerfreie Funktionieren und für Mangelfolge-
-schäden kann daher nicht übernommen werden. Im übrigen gelten die
+Verwendungszweck, für das fehlerfreie Funktionieren und für Mangelfolgeschäden kann daher
+nicht übernommen werden. Im übrigen gelten die
 allgemeinen Vertragsbedingungen für Softwareprogramme.
 
-Copyright © 07/2026 U.Wolf WOLF Hard- und Software. Alle Rechte vorbehalten.
+Copyright © 10/2026 U.Wolf WOLF Hard- und Software. Alle Rechte vorbehalten.
